@@ -1,0 +1,16 @@
+{
+	 "Luffy": {
+		 "Biografia": {
+			 "titulo": "El próximo rey de los piratas",
+			 "nombre": "Monkey D.Luffy",
+			 "cumpleanos": "2024-05-05",
+			 "tripulacion": "Los mugiwaras"
+		},
+		 "transformaciones": {
+			 "gear2": "Segunda marcha",
+			 "gear3": "Tercera marcha",
+			 "gear4": "Cuarta marcha",
+			 "gear5": "Quinta marcha"
+		}
+	}
+}

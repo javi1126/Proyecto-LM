@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Luffy>
+    <Biografia>
+        <titulo>El próximo rey de los piratas</titulo>
+        <nombre>Monkey D.Luffy</nombre>
+        <cumpleanos>2024-05-05</cumpleanos>
+        <tripulacion>Los mugiwaras</tripulacion>
+    </Biografia>
+    <transformaciones>
+        <gear2>Segunda marcha</gear2>
+        <gear3>Tercera marcha</gear3>
+        <gear4>Cuarta marcha</gear4>
+        <gear5>Quinta marcha</gear5>
+    </transformaciones>
+</Luffy>

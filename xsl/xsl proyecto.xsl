@@ -10,12 +10,12 @@
             width: 100%;
           }
           th, td {
-            border: 1px solid black;
+            border: 1px solid white;
             padding: 8px;
             text-align: left;
           }
           th {
-            background-color: #black;
+            background-color: #yellow;
           }
         </style>
       </head>

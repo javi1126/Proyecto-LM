@@ -93,7 +93,6 @@ audio{
 .rssimg{
   width:12%;
 }
-@media (max-width: 768px) {
   @media (max-width: 768px) {
     .menu-toggle {
         display: block;
